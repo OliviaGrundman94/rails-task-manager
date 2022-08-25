@@ -1,3 +1,5 @@
 class Task < ApplicationRecord
-  add_column :title, :details, :completed
+  # def change
+  #   add_column :title, :details, :completed
+  # end
 end
